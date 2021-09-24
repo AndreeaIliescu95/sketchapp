@@ -1,0 +1,62 @@
+@import '../../styles/fonts.scss';
+@import '../../styles/variables.scss';
+
+.container-footer {
+	background: $peach;
+}
+.footer-text {
+	top: 60px;
+	height: 100vh;
+	position: relative;
+	display: flex;
+	padding: 0 20px 0 20px;
+	align-items: center;
+	flex-direction: column;
+
+	h5,
+	h2,
+	p {
+		color: white;
+	}
+}
+.footer-text h2 {
+	font-size: 8rem;
+	font-family: $TroisMilleBlack;
+	color: $pale-pink;
+	line-height: 7rem;
+	padding-bottom: 30px;
+}
+.footer-text h5 {
+	font-size: 3rem;
+	font-family: $TroisMilleBlack;
+	font-weight: bold;
+	line-height: 4rem;
+}
+h5.colour {
+	color: $cornflower;
+}
+.footer {
+	background: $peach;
+	height: 80px;
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-size: 1rem;
+}
+
+.footer-text p {
+	font-size: 2.5rem;
+	font-family: $TroisMilleLight;
+}
+.social-footer ul {
+	fill: $pale-pink;
+	margin-bottom: 40px;
+}
+.footer p {
+	margin: 0 10px;
+	color: white;
+	font-family: $TroisMilleLight;
+	font-size: 1.4rem;
+	color: $pale-pink;
+}

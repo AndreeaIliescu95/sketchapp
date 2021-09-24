@@ -1,0 +1,27 @@
+// Trois Mille Black
+@font-face {
+  font-family: 'TroisMilleBlack';
+  src: url('./fonts/TroisMilleBlack/TroisMilleBlack-21.eot');
+  src: url('./fonts/TroisMilleBlack/TroisMilleBlack-21.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/TroisMilleBlack/TroisMilleBlack-21.woff') format('woff'),
+       url('./fonts/TroisMilleBlack/TroisMilleBlack-21.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+// Trois Mille Light
+@font-face {
+  font-family: 'TroisMilleLight';
+  src: url('./fonts/TroisMilleLight/TroisMilleLight-21.eot');
+  src: url('./fonts/TroisMilleLight/TroisMilleLight-21.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/TroisMilleLight/TroisMilleLight-21.woff') format('woff'),
+       url('./fonts/TroisMilleLight/TroisMilleLight-21.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
